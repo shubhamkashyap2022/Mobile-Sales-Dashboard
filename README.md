@@ -1,6 +1,4 @@
-:
-
-📱 Mobile Sales Dashboard | Power BI
+Mobile Sales Dashboard | Power BI
 📌 Project Overview
 
 This project is an interactive Mobile Sales Analytics Dashboard built in Microsoft Power BI using a Motorola mobile sales dataset.
